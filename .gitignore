@@ -1,0 +1,5 @@
+#Android standard .gitignore file
+
+bin/
+gen/
+libs/
